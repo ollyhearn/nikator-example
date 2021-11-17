@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">НИКАТОР</string>
+    <string name="welcome_text">Добро пожаловать!</string>
+    <string name="end_start_activity">Далее</string>
+    <string name="title_name">НИКАТОР - добавки для полимеров</string>
+    <string name="tab_catalog">Каталог</string>
+    <string name="tab_about">О нас</string>
+    <string name="tab_RGB_camera">RGB Камера</string>
+    <string name="tab_feed">Новости</string>
+    <string name="about_content">«НИКАТОР» - один из лидеров в сфере производства меловых добавок, процессинговых добавок, белых и цветных суперконцентратов красителей и индивидуальных компаундов для производства. Работаем с предприятиями на всей территории России и Ближнего зарубежья. Производство базируется в Московской области в городе Серпухов.</string>
+    <string name="button_capture">Снять</string>
+    <string name="color_info">Тут будет информация о цветах</string>
+</resources>
